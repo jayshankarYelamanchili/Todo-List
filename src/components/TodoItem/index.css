@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #000000;
+}
+
+.todoBtn {
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 8px;
+  padding-left: 8px;
+  font-size: 13px;
+  color: #ff0b37;
+  cursor: pointer;
+}
